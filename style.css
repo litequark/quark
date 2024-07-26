@@ -8,3 +8,15 @@ h1 {
     /* color: midnightblue; */
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.warning {
+    color: red;
+    border: solid;
+}
+
+.notice {
+    color: rgb(0, 0, 0);
+    background-color: rgb(218, 238, 255);
+    border-left: 4px solid blue;
+    padding-left: 30px;
+}
