@@ -1,8 +1,8 @@
 <?php
     // Store credentials
-    $servername = 'localhost';
-    $username = 'user';
-    $password = 'user';
-    $database = 'task_manager';
+    $servername = 'sql12.freemysqlhosting.net';
+    $username = 'sql12723211';
+    $password = 'ziYW7iY5hm';
+    $database = 'sql12723211';
     $port = 3306;
 ?>
